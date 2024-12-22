@@ -50,9 +50,15 @@ Expertise Areas
 ☁️ Cloud Architecture for ML
 
 🌟 🤝 Let’s Connect and Collaborate!
+🤝 Let's Connect!
+<div align="center">
+<img src="https://img.shields.io/badge/-Aakash_Patil-blue?style=flat&logo=Linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-patilaakash619-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
+</div>
 
-🔗 LinkedIn: www.linkedin.com/in/aakashpatil5050/
-📊 Kaggle: www.kaggle.com/patilaakash619
+<div align="center">
+  <i>Let's exchange ideas, solve challenges, and drive innovation together! 🚀</i>
+</div>
 
 ✨ Feel free to connect—let’s exchange ideas, solve challenges, and drive innovation together! 🚀
 
