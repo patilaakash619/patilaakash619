@@ -2,7 +2,9 @@ Hello World! I'm Aakash Patil 👋
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2C974B&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Deep+Learning+Enthusiast;Building+Innovative+AI+Solutions;Let's+Connect+and+Innovate+Together!" alt="Typing SVG" />
 </div>
+
 🚀 About Me
+
 I'm an AI/ML Engineer passionate about transforming ideas into intelligent solutions. I specialize in building cutting-edge AI applications that solve real-world problems.
 
 🔭 Currently developing advanced chatbots for enhanced user engagement
@@ -12,6 +14,7 @@ I'm an AI/ML Engineer passionate about transforming ideas into intelligent solut
 ⚡ Fun fact: I believe AI is not just about algorithms, it's about creating experiences!
 
 💼 Professional Journey
+
 AI/ML Engineer with expertise in:
 
 🤖 Developing and deploying production-grade ML models
