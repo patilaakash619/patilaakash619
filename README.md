@@ -49,3 +49,11 @@ Expertise Areas
 🔄 MLOps & Model Deployment
 ☁️ Cloud Architecture for ML
 
+🌟 🤝 Let’s Connect and Collaborate!
+
+🔗 LinkedIn: www.linkedin.com/in/aakashpatil5050/
+📊 Kaggle: www.kaggle.com/patilaakash619
+
+✨ Feel free to connect—let’s exchange ideas, solve challenges, and drive innovation together! 🚀
+
+
