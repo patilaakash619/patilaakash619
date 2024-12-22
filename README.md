@@ -60,6 +60,16 @@ Expertise Areas
   <i>Let's exchange ideas, solve challenges, and drive innovation together! 🚀</i>
 </div>
 
+
+
+<div align="center">
+Show Image
+Show Image
+</div>
+
+<div align="center">
+  <i>Let's exchange ideas, solve challenges, and drive innovation together! 🚀</i>
+</div>
 ✨ Feel free to connect—let’s exchange ideas, solve challenges, and drive innovation together! 🚀
 
 
