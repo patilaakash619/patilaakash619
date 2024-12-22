@@ -19,16 +19,25 @@ AI/ML Engineer with expertise in:
 🤝 Leading cross-functional teams in AI implementation
 📈 Driving data-driven decision making
 
-🛠️ Technical Arsenal
-Core Technologies
-pythonCopytech_stack = {
-    "Languages": ["Python", "SQL", "JavaScript"],
-    "ML/DL": ["PyTorch", "TensorFlow", "Scikit-learn"],
-    "LLMs": ["LangChain", "LlamaIndex", "Hugging Face"],
-    "APIs": ["FastAPI", "Flask", "RESTful"],
-    "Cloud": ["AWS SageMaker", "EC2", "Lambda"],
-    "MLOps": ["Docker", "Kubernetes", "MLflow", "DVC"]
-}
+🌐 Languages & Frameworks:
+🐍 Python (Advanced): The maestro of automation and analytics
+🔥 PyTorch, TensorFlow: Crafting intelligent, scalable AI models
+🚀 FastAPI, Flask: Accelerating backend development
+
+🤖 ML/AI Tools & Technologies:
+📊 Scikit-learn: The Swiss Army knife of machine learning
+🦄 Hugging Face Transformers: Pioneering state-of-the-art NLP
+🔗 LangChain, LlamaIndex: Innovating with LLMs for context-aware AI
+🖼️ Computer Vision Libraries: Unleashing the power of image intelligence
+✍️ NLP Frameworks: Deciphering human language for actionable insights
+
+☁️ Cloud & MLOps:
+🌥️ AWS (SageMaker, Lambda, EC2): Cloud-first ML and deployment strategies
+🐋 Docker, Kubernetes: Containerized brilliance for scalable solutions
+📂 MLflow, DVC: Tracking, versioning, and refining models like a pro
+🔄 CI/CD Pipeline Implementation: Engineering robust DevOps workflows
+
+
 Expertise Areas
 
 🧠 Deep Learning & Neural Networks
@@ -37,18 +46,3 @@ Expertise Areas
 🔄 MLOps & Model Deployment
 ☁️ Cloud Architecture for ML
 
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-</div>
-🤝 Let's Connect!
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
-
-<div align="center">
-  <i>Let's exchange ideas, solve challenges, and drive innovation together! 🚀</i>
-</div>
