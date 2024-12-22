@@ -60,16 +60,22 @@ Expertise Areas
   <i>Let's exchange ideas, solve challenges, and drive innovation together! 🚀</i>
 </div>
 
-
-
 <div align="center">
-Show Image
-Show Image
+  <a href="https://www.linkedin.com/in/aakashpatil5050/">
+    <img src="https://img.shields.io/badge/-Aakash_Patil-blue?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/patilaakash619">
+    <img src="https://img.shields.io/badge/-patilaakash619-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
+  </a>
+</div>
+<div align="center">
+  <i>Let's exchange ideas, solve challenges, and drive innovation together! 🚀</i>
 </div>
 
 <div align="center">
   <i>Let's exchange ideas, solve challenges, and drive innovation together! 🚀</i>
 </div>
+
 ✨ Feel free to connect—let’s exchange ideas, solve challenges, and drive innovation together! 🚀
 
 
