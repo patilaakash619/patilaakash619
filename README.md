@@ -56,7 +56,7 @@ Expertise Areas
     <img src="https://img.shields.io/badge/-Aakash_Patil-blue?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/patilaakash619">
-    <img src="https://img.shields.io/badge/-patilaakash619-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Aakash_Patil-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
   </a>
 </div>
 <div align="center">
