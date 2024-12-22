@@ -60,8 +60,7 @@ Expertise Areas
   </a>
 </div>
 <div align="center">
-  <i>Let's exchange ideas, solve challenges, and drive innovation together! 🚀</i>
-</div>
+  
 
 <div align="center">
   <i>Let's exchange ideas, solve challenges, and drive innovation together! 🚀</i>
